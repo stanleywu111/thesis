@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}订单簿介绍}{1}
+\contentsline {section}{\numberline {1.1}订单簿的统计性质}{1}
+\contentsline {subsection}{\numberline {1.1.1}新增订单的到达分布}{1}
+\contentsline {chapter}{\numberline {2}做市商模型}{3}
+\contentsline {chapter}{\numberline {3}Hamilton-Jacobi-Bellman方程}{5}
