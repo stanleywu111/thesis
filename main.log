@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.2.7)  18 MAR 2017 22:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.2.7)  19 MAR 2017 03:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,10 +1300,10 @@ Chapter 3.
 ] (./main.aux (./TeX_files/chapter01.aux) (./TeX_files/chapter02.aux)
 (./TeX_files/chapter03.aux)) ) 
 Here is how much of TeX's memory you used:
- 19579 strings out of 493591
- 403561 string characters out of 6143141
- 372943 words of memory out of 5000000
- 22808 multiletter control sequences out of 15000+600000
+ 19599 strings out of 493591
+ 404775 string characters out of 6143141
+ 374943 words of memory out of 5000000
+ 22828 multiletter control sequences out of 15000+600000
  7611 words of font info for 54 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  56i,6n,78p,10412b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
